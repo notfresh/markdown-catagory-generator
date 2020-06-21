@@ -18,7 +18,7 @@ If you are bothered to create the catagory after you have finished your long REA
 
 ## Background
 
-I had once seen a long C++ turtor in Github, it's very good but there is no catagory for it.
+I had once seen  [a long C++ turtorial](https://github.com/AnkerLeng/Cpp-0-1-Resource) in Github, it's very good but there is no catagory for it.
 
 I know you can download the repository and view it locally by typora or something else,  Yes, it's truly convenient. BUT it's not friendly for us to view the markdown file on GitHub.
 
@@ -27,7 +27,6 @@ So I create the script with less than 100 lines to help us create the markdown c
 I hope it will free you from the unpleasant process of writing the dummy catagory writting. 
 
 It's not perfect now, but it's a step from 0 to 1.
-
 
 
 ## Install
