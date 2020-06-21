@@ -11,6 +11,7 @@ If you are bothered to create the catagory after you have finished your long REA
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [example](#example)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,11 +32,17 @@ It's not perfect now, but it's a step from 0 to 1.
 
 ## Install
 
+open the termial, and in python3.6+ enviroment, run the following script:
+
 ```
 pip install md-cata-notfresh==0.0.2
 ```
 
+
+
 ## Usage
+
+open the termial, and in python3.6+ enviroment, run the following script:
 
 ```
 md-cata THE_MARKDOWN_FILE_YOU_WANT_TO_GENERATE_A_CATAGORY
