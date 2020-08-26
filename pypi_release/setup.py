@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="md-cata-notfresh", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="notfresh",
     author_email="notfresh@foxmail.com",
-    description="generate the markdown catagory automatically",
+    description="generate the markdown catagory automatically and other tools",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/notfresh/md-cata",
